@@ -11,8 +11,8 @@
 24115:1000:3,RPKI Not Checked
 24115:1001:1,IRRDB Valid
 24115:1001:2,IRRDB Not Checked
-24115:1002:xxx,Route Server Tracer
-24115:1003:xx,Peer Round Trip Time
+24115:1002:0-999,Route Server Tracer
+24115:1003:0-999,Peer Round Trip Time
 24115:1004:1-401308,Incoming Peer ASN
 #
 # Operational Communities – Received from Peers
