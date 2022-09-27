@@ -2,10 +2,10 @@
 #
 # Informational and Peer Operational Communities – Distributed to Peers
 #
-# Standard	
+## Standard	
 24115:65012,RPKI Valid
 24115:65023,RPKI Unknown
-# Large	
+## Large	
 24115:1000:1,RPKI Valid
 24115:1000:2,RPKI Unknown
 24115:1000:3,RPKI Not Checked
@@ -17,13 +17,13 @@
 #
 # Operational Communities – Received from Peers
 #
-# Standard
+## Standard
 24115:65281-65283,No Export
 24115:24115,Default Open Policy
 24115:24115:0:1-401308,Default Open except for ASN
-# Extended
+## Extended
 24115:1-401308,Allow Export to ASN
-# Large
+## Large
 24115:1:24115,Default Open Policy
 24115:0:24115,Default Closed Policy
 24115:0:1-401308,No Export to ASN
@@ -38,7 +38,7 @@
 #
 # Filtered Informational Communities – Looking Glass and IXRS
 #
-# Large
+## Large
 24115:1101:1,Prefix Length too long
 24115:1101:2,Prefix Length too short
 24115:1101:3,Bogon Prefix
